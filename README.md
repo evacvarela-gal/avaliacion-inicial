@@ -34,4 +34,4 @@ A aplicación non traballa con datos identificables do alumnado: cada rexistro g
 
 ## Autoría
 
-Eva Cristina Varela · ORCID: [0009-0008-4320-4886](https://orcid.org/0009-0008-4320-4886)
+Eva C. Varela · ORCID: [0009-0008-4320-4886](https://orcid.org/0009-0008-4320-4886)
